@@ -17,7 +17,7 @@ devTinder is a developer-centric matching platform inspired by the Tinder model.
 -  **Developer Matching:** Browse and match with other developers based on preferences.
 -  **API Integration:** Structured APIs defined in `apiList.md`.
 -  **User Interaction Setup:** Homework or onboarding flow captured in `homework.md`.
--  **Responsive UI:** Works seamlessly across devices (suggested).
+-  **Responsive UI:** Works seamlessly
 
 ---
 
